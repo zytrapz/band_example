@@ -1,0 +1,15 @@
+{
+	"name": "band-protocol-scripts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "node deployOracleScript.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@bandprotocol/bandchain.js": "^2.1.4"
+	}
+}

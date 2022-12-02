@@ -1,0 +1,5 @@
+.env
+yarn.lock
+node_modules
+oracle_script/target
+oracle_script/Cargo.lock
