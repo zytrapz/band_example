@@ -1,5 +1,8 @@
 .env
 yarn.lock
+package-lock.json
 node_modules
 oracle_script/target
 oracle_script/Cargo.lock
+oracle_script/artifacts
+.DS_Store
